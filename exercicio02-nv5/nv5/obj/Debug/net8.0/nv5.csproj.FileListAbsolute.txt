@@ -1,0 +1,15 @@
+C:\Users\arine\estartandoDevs\Exercicios\exercicio02-nv5\nv5\bin\Debug\net8.0\nv5.exe
+C:\Users\arine\estartandoDevs\Exercicios\exercicio02-nv5\nv5\bin\Debug\net8.0\nv5.deps.json
+C:\Users\arine\estartandoDevs\Exercicios\exercicio02-nv5\nv5\bin\Debug\net8.0\nv5.runtimeconfig.json
+C:\Users\arine\estartandoDevs\Exercicios\exercicio02-nv5\nv5\bin\Debug\net8.0\nv5.dll
+C:\Users\arine\estartandoDevs\Exercicios\exercicio02-nv5\nv5\bin\Debug\net8.0\nv5.pdb
+C:\Users\arine\estartandoDevs\Exercicios\exercicio02-nv5\nv5\obj\Debug\net8.0\nv5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arine\estartandoDevs\Exercicios\exercicio02-nv5\nv5\obj\Debug\net8.0\nv5.AssemblyInfoInputs.cache
+C:\Users\arine\estartandoDevs\Exercicios\exercicio02-nv5\nv5\obj\Debug\net8.0\nv5.AssemblyInfo.cs
+C:\Users\arine\estartandoDevs\Exercicios\exercicio02-nv5\nv5\obj\Debug\net8.0\nv5.csproj.CoreCompileInputs.cache
+C:\Users\arine\estartandoDevs\Exercicios\exercicio02-nv5\nv5\obj\Debug\net8.0\nv5.sourcelink.json
+C:\Users\arine\estartandoDevs\Exercicios\exercicio02-nv5\nv5\obj\Debug\net8.0\nv5.dll
+C:\Users\arine\estartandoDevs\Exercicios\exercicio02-nv5\nv5\obj\Debug\net8.0\refint\nv5.dll
+C:\Users\arine\estartandoDevs\Exercicios\exercicio02-nv5\nv5\obj\Debug\net8.0\nv5.pdb
+C:\Users\arine\estartandoDevs\Exercicios\exercicio02-nv5\nv5\obj\Debug\net8.0\nv5.genruntimeconfig.cache
+C:\Users\arine\estartandoDevs\Exercicios\exercicio02-nv5\nv5\obj\Debug\net8.0\ref\nv5.dll
