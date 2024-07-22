@@ -1,0 +1,14 @@
+C:\Users\arine\estartandoDevs\exercicios\exercicio02-nv3\nv3\bin\Debug\net8.0\nv3.exe
+C:\Users\arine\estartandoDevs\exercicios\exercicio02-nv3\nv3\bin\Debug\net8.0\nv3.deps.json
+C:\Users\arine\estartandoDevs\exercicios\exercicio02-nv3\nv3\bin\Debug\net8.0\nv3.runtimeconfig.json
+C:\Users\arine\estartandoDevs\exercicios\exercicio02-nv3\nv3\bin\Debug\net8.0\nv3.dll
+C:\Users\arine\estartandoDevs\exercicios\exercicio02-nv3\nv3\bin\Debug\net8.0\nv3.pdb
+C:\Users\arine\estartandoDevs\exercicios\exercicio02-nv3\nv3\obj\Debug\net8.0\nv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arine\estartandoDevs\exercicios\exercicio02-nv3\nv3\obj\Debug\net8.0\nv3.AssemblyInfoInputs.cache
+C:\Users\arine\estartandoDevs\exercicios\exercicio02-nv3\nv3\obj\Debug\net8.0\nv3.AssemblyInfo.cs
+C:\Users\arine\estartandoDevs\exercicios\exercicio02-nv3\nv3\obj\Debug\net8.0\nv3.csproj.CoreCompileInputs.cache
+C:\Users\arine\estartandoDevs\exercicios\exercicio02-nv3\nv3\obj\Debug\net8.0\nv3.dll
+C:\Users\arine\estartandoDevs\exercicios\exercicio02-nv3\nv3\obj\Debug\net8.0\refint\nv3.dll
+C:\Users\arine\estartandoDevs\exercicios\exercicio02-nv3\nv3\obj\Debug\net8.0\nv3.pdb
+C:\Users\arine\estartandoDevs\exercicios\exercicio02-nv3\nv3\obj\Debug\net8.0\nv3.genruntimeconfig.cache
+C:\Users\arine\estartandoDevs\exercicios\exercicio02-nv3\nv3\obj\Debug\net8.0\ref\nv3.dll

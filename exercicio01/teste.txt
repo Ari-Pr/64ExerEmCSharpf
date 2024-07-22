@@ -1,0 +1,19 @@
+#includo <stdio.h>
+
+int main() {
+return 0;
+}
+
+PASSO A PASSO DE COMO PEDIR COMIDA NO IFOOD
+
+1 - encontrar meu celular
+2 - desbloquear celular
+3 - procurar aplicativo
+4 - abrir aplicativo
+5 - selecionar restaurante para pedir
+6 - ir para o carinho
+7 - escolher forma de pagamento
+8 - fazer pagamento
+9 - esperar pedido chegar
+10 - receber pedido
+11 - comer pedido

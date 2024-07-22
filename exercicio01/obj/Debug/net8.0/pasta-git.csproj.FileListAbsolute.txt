@@ -1,0 +1,42 @@
+C:\pasta-git\bin\Debug\net8.0\pasta-git.exe
+C:\pasta-git\bin\Debug\net8.0\pasta-git.deps.json
+C:\pasta-git\bin\Debug\net8.0\pasta-git.runtimeconfig.json
+C:\pasta-git\bin\Debug\net8.0\pasta-git.dll
+C:\pasta-git\bin\Debug\net8.0\pasta-git.pdb
+C:\pasta-git\obj\Debug\net8.0\pasta-git.GeneratedMSBuildEditorConfig.editorconfig
+C:\pasta-git\obj\Debug\net8.0\pasta-git.AssemblyInfoInputs.cache
+C:\pasta-git\obj\Debug\net8.0\pasta-git.AssemblyInfo.cs
+C:\pasta-git\obj\Debug\net8.0\pasta-git.csproj.CoreCompileInputs.cache
+C:\pasta-git\obj\Debug\net8.0\pasta-git.dll
+C:\pasta-git\obj\Debug\net8.0\refint\pasta-git.dll
+C:\pasta-git\obj\Debug\net8.0\pasta-git.pdb
+C:\pasta-git\obj\Debug\net8.0\pasta-git.genruntimeconfig.cache
+C:\pasta-git\obj\Debug\net8.0\ref\pasta-git.dll
+C:\estartandoDevs\Exercicios\exercicios feitos\obj\Debug\net8.0\pasta-git.GeneratedMSBuildEditorConfig.editorconfig
+C:\estartandoDevs\Exercicios\exercicios feitos\obj\Debug\net8.0\pasta-git.AssemblyInfoInputs.cache
+C:\estartandoDevs\Exercicios\exercicios feitos\obj\Debug\net8.0\pasta-git.AssemblyInfo.cs
+C:\estartandoDevs\Exercicios\exercicios feitos\obj\Debug\net8.0\pasta-git.csproj.CoreCompileInputs.cache
+C:\estartandoDevs\Exercicios\exercicios feitos\obj\Debug\net8.0\pasta-git.dll
+C:\estartandoDevs\Exercicios\exercicios feitos\obj\Debug\net8.0\refint\pasta-git.dll
+C:\estartandoDevs\Exercicios\exercicios feitos\obj\Debug\net8.0\pasta-git.pdb
+C:\estartandoDevs\Exercicios\exercicios feitos\bin\Debug\net8.0\pasta-git.exe
+C:\estartandoDevs\Exercicios\exercicios feitos\bin\Debug\net8.0\pasta-git.deps.json
+C:\estartandoDevs\Exercicios\exercicios feitos\bin\Debug\net8.0\pasta-git.runtimeconfig.json
+C:\estartandoDevs\Exercicios\exercicios feitos\bin\Debug\net8.0\pasta-git.dll
+C:\estartandoDevs\Exercicios\exercicios feitos\bin\Debug\net8.0\pasta-git.pdb
+C:\estartandoDevs\Exercicios\exercicios feitos\obj\Debug\net8.0\pasta-git.genruntimeconfig.cache
+C:\estartandoDevs\Exercicios\exercicios feitos\obj\Debug\net8.0\ref\pasta-git.dll
+C:\estartandoDevs\Exercicios\exercicios-feitos\bin\Debug\net8.0\pasta-git.exe
+C:\estartandoDevs\Exercicios\exercicios-feitos\bin\Debug\net8.0\pasta-git.deps.json
+C:\estartandoDevs\Exercicios\exercicios-feitos\bin\Debug\net8.0\pasta-git.runtimeconfig.json
+C:\estartandoDevs\Exercicios\exercicios-feitos\bin\Debug\net8.0\pasta-git.dll
+C:\estartandoDevs\Exercicios\exercicios-feitos\bin\Debug\net8.0\pasta-git.pdb
+C:\estartandoDevs\Exercicios\exercicios-feitos\obj\Debug\net8.0\pasta-git.GeneratedMSBuildEditorConfig.editorconfig
+C:\estartandoDevs\Exercicios\exercicios-feitos\obj\Debug\net8.0\pasta-git.AssemblyInfoInputs.cache
+C:\estartandoDevs\Exercicios\exercicios-feitos\obj\Debug\net8.0\pasta-git.AssemblyInfo.cs
+C:\estartandoDevs\Exercicios\exercicios-feitos\obj\Debug\net8.0\pasta-git.csproj.CoreCompileInputs.cache
+C:\estartandoDevs\Exercicios\exercicios-feitos\obj\Debug\net8.0\pasta-git.dll
+C:\estartandoDevs\Exercicios\exercicios-feitos\obj\Debug\net8.0\refint\pasta-git.dll
+C:\estartandoDevs\Exercicios\exercicios-feitos\obj\Debug\net8.0\pasta-git.pdb
+C:\estartandoDevs\Exercicios\exercicios-feitos\obj\Debug\net8.0\pasta-git.genruntimeconfig.cache
+C:\estartandoDevs\Exercicios\exercicios-feitos\obj\Debug\net8.0\ref\pasta-git.dll
